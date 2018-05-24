@@ -11,12 +11,12 @@ public class Task_7_Stream {
     public static void main(String[] args) {
 
             listOfStrings.add("test");
-            listOfStrings.add("something");
-            getDataWithLambda();
+            listOfStrings.add("somehing");
+            getDataUsingStream();
         }
 
 
-    static void getDataWithLambda() {
+    static void getDataUsingStream() {
 
         List<String> streamableList = listOfStrings
                 .stream()

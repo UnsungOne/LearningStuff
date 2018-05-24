@@ -8,8 +8,8 @@ public class Task_7 {
     static List<String> listOfStrings = new ArrayList<>();
 
     public static void main(String[] args) {
-        listOfStrings.add("test");
-        listOfStrings.add("something");
+        listOfStrings.add("SDAAcademy");
+        listOfStrings.add("Some random value");
         getStringData();
 
     }

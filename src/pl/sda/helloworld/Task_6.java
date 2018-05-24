@@ -8,8 +8,8 @@ public class Task_6 {
     static double a;
     static double b;
     static double c;
-    static double root1;
-    static double root2;
+    static double x1;
+    static double x2;
 
 
     public static void main(String[] args) {
@@ -36,16 +36,16 @@ public class Task_6 {
                 System.out.println("Delta equals: " + delta);
 
                 if (delta > 0) {
-                    root1 = (-b + Math.sqrt(delta)) / (2 * a);
-                    root2 = (-b - Math.sqrt(delta)) / (2 * a);
+                    x1 = (-b + Math.sqrt(delta)) / (2 * a);
+                    x2 = (-b - Math.sqrt(delta)) / (2 * a);
 
-                    System.out.format("root1 = %.2f and root2 = %.2f", root1, root2);
+                    System.out.println("x1 equals: " + x1 + " and " + "x2 equals: " + x2);
                 } else if (delta == 0) {
-                    root1 = root2 = -b / (2 * a);
+                    x1 = x2 = -b / (2 * a);
 
-                    System.out.format("root1 = root2 = %.2f;", root1);
+                    System.out.println("There is only one solution x1 = x2: " + x1);
                 }
-                // If roots are not real
+
                 else {
                     System.out.println("Delta is < 0. There is no solution");
                 }
