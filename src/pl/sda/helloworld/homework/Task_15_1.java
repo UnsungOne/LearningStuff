@@ -1,12 +1,14 @@
 package pl.sda.helloworld.homework;
 
+
+// Oblicza macierz 2x2
 public class Task_15_1 {
     static int[][] matrix1 = new int[][]{{2, 1}, {1, 3}};
     static int determinant = 0;
     static int determinant2 = 0;
 
     public static void main(String[] args) {
-        System.out.println("Macierz orginalna: ");
+        System.out.println("Macierz: ");
         for (int i = 0; i < matrix1.length; i++) {
             for (int j = 0; j < matrix1[i].length; j++) {
                 System.out.print(matrix1[i][j] + " ");
@@ -15,6 +17,7 @@ public class Task_15_1 {
             }
             System.out.println();
         }
+        System.out.println("------------------------------------");
         System.out.println("Wyznacznik: ");
         System.out.println(determinant - determinant2);
     }

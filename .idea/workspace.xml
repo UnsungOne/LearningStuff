@@ -2,142 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e7ba44-27cc-452f-bf3f-3e399e77dfa5" name="Default" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/GAME/RockScissorsPapers$Items.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/GAME/RockScissorsPapers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/InstanceCounter/StaticValues$InstantCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/InstanceCounter/StaticValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Intefaces/DS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Intefaces/FileDataStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Intefaces/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/OOP/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/OOP/Engine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/OOP/OOPMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/OOP/RacingEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/OOP/TruckEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Shapes_Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Shapes/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/ArrayLearning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/ArrayMoreLearning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Checkboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_2_and_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/ArrayIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/Collections_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/Exceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/Programming.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/Trye.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/collections/new213.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/notepad/Note.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/notepad/TextNote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/GAME/RockScissorsPapers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/InstanceCounter/StaticValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Intefaces/DS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Intefaces/FileDataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Intefaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/OOPMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/RacingEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/TruckEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_1/CatPedigree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_1/DogPedigree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_2/Delta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_5/ConstantPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_5/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_5/HourlyRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_5/TaskBased.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_6/Lights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_7/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_8/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_8/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_8/Class3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_8/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/OOP_Homework/Task_8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Shapes_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/ArrayLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Checkboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/ArrayIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/Trye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/new213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/notepad/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/notepad/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/notepad/TextNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_2_and_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Task_7_Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/Stuff/Task_7_Stream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/ArrayMoreLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/ArrayMoreLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Checkboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_2_and_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_2_and_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/Task_7_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Task_7_Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/Collections_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/collections/Collections_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_15_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_15_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/pl/sda/helloworld/homework/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task_5.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task_5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="187">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
               <folding>
                 <element signature="e#160#161#0" expanded="true" />
                 <element signature="e#191#192#0" expanded="true" />
@@ -207,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task_15.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Task_15.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="578">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -219,8 +89,8 @@
       <file leaf-file-name="Task_15_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -228,8 +98,8 @@
       <file leaf-file-name="Task_16.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="295">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -261,8 +131,6 @@
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_6.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task6_1.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_14.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/OOP/Engine.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/notepad/Note.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/notepad/Main.java" />
@@ -301,6 +169,8 @@
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_16.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/Stuff/Checkboard.java" />
         <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_5.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java" />
+        <option value="$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java" />
       </list>
     </option>
   </component>
@@ -392,13 +262,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_5">
+  <component name="RunManager" selected="Application.Task_15">
     <configuration name="Checkboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.sda.helloworld.Stuff.Checkboard" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.sda.helloworld.Stuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Task_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.helloworld.homework.Task_15" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.helloworld.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Task_15_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.helloworld.homework.Task_15_1" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.helloworld.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,40 +313,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.helloworld.homework.Task_7" />
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sda.helloworld.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.helloworld.homework.Task_8" />
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sda.helloworld.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.Task_7" />
-      <item itemvalue="Application.Task_8" />
       <item itemvalue="Application.Task_16" />
       <item itemvalue="Application.Checkboard" />
       <item itemvalue="Application.Task_5" />
+      <item itemvalue="Application.Task_15" />
+      <item itemvalue="Application.Task_15_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_15" />
+        <item itemvalue="Application.Task_15_1" />
+        <item itemvalue="Application.Task_16" />
         <item itemvalue="Application.Task_5" />
         <item itemvalue="Application.Checkboard" />
-        <item itemvalue="Application.Task_16" />
-        <item itemvalue="Application.Task_8" />
-        <item itemvalue="Application.Task_7" />
       </list>
     </recent_temporary>
   </component>
@@ -476,15 +346,16 @@
       <workItem from="1527795841808" duration="3469000" />
       <workItem from="1527836391189" duration="4215000" />
       <workItem from="1527840962034" duration="6959000" />
-      <workItem from="1527848331133" duration="12515000" />
+      <workItem from="1527848331133" duration="19048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52270000" />
+    <option name="totallyTimeSpent" value="58803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -496,7 +367,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32975295" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.2857143" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.33286908" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.39693594" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.21169916" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,7 +378,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3983287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983287" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -958,27 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1009,12 +859,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
           <folding>
             <element signature="e#160#161#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/sda/helloworld/homework/Task_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
